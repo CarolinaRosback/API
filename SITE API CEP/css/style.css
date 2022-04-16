@@ -1,0 +1,23 @@
+
+h1{
+    font-size: 40px;
+    font-family:Marker Felt, fantasy;
+    color: #0d6efd;;
+}
+
+h2{
+    font-size: 18px;
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoj";
+}
+h3{
+    font-size: 18px;
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoj";
+}
+
+body {
+    background: linear-gradient(45deg, #7EC0EE, #FFFFFF	);
+    
+    
+}
+
+
